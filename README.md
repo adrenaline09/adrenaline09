@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mudit
-- 👀 I’m interested in CP and appD
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Big data and Cloud Computing
+- 🌱 I’m currently learning Azure/Aws
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/adrenaline09
 
