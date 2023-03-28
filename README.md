@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adrenaline09
+- 👋 Hi, I’m Mudit
 - 👀 I’m interested in CP and appD
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
